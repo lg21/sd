@@ -1,0 +1,227 @@
+#set($sdFileName = ${sd.getName().replace(" ","").replace(".","")})
+#set($cbtorFileName = ${cbtor.replace(" ","").replace(".","")})
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="keywords" content=""/>
+        <meta name="description" content=""/>
+        <meta name="author" content=""/>
+        <title>Lev's Snowdomes</title>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+    </head>
+    <body class="singleLeftPane">
+        <div id="pageWrapper">
+            <div id="pageHeader">
+                <h1>
+                    <strong>
+                        <font size="5">My Snowdome Collection</font>
+                    </strong>
+                    <br>
+                </h1>
+            </div>
+            <div id="subPageWrapper">
+                <div id="siteNavigation">
+                    <h1>Navigation</h1>
+                    <ul>
+                        <li>
+                            <a href="news.html">Latest</a>
+                            <a href="all.html">All</a>
+                            <a href="ctts.html">By country</a>
+                            <a href="cbtors.html">By contributor</a>
+                            <a href="nc.html">Non-classified</a>
+                            <a href="bl.html">Blacklist</a>
+                        </li>
+                    </ul>
+                    <div id="listBreaker"></div>
+                </div>
+                <div id="extraContent">
+                    <div class="contentContainer">
+                        <strong></strong>
+                        <p>
+                            <a href="${sdFileName}${sd.getCounter()}.html">
+                                <strong>Snowdome of the Day</strong>
+                            </a>
+                        </p>
+                        <p>
+                            <a href="${sdFileName}${sd.getCounter()}.html">
+#if(${sd.getAmount()} == 2)
+                                <img src="${pictures}/${sdFileName}${sd.getCounter()}v1B.jpg">
+#else
+                                <img src="${pictures}/${sdFileName}${sd.getCounter()}B.jpg">
+#end
+                            </a>
+                        </p>
+                        <p>
+#if((${sd.getName()} == ${sd.getCountry()}) || (${sd.getClassified()} == ${f}))
+                            <a href="${sdFileName}${sd.getCounter()}.html">${sd.getName()}</a>
+#else
+                            <a href="${sdFileName}${sd.getCounter()}.html">${sd.getName()}, ${sd.getCountry()}</a>
+#end
+                            <br>
+                        </p>
+                    </div>
+                    <hr>
+                    <div class="contentContainer">
+                        <p>
+                            <a href="${cbtorFileName}.html">
+                                <strong>Contributor of the Day</strong>
+                            </a>
+                        </p>
+                        <p>
+                            <a href="${cbtorFileName}.html">
+                                <img src="${pictures}/${cbtorFileName}.jpg">
+                            </a>
+                        </p>
+                        <p>
+                            <a href="${cbtorFileName}.html">${cbtor}</a>
+                            <br>
+                        </p>
+                    </div>
+                </div>
+                <div id="userLinks"></div>
+                <div id="mainContent">
+                    <div class="contentContainer">
+                        <h2 style="text-align: center;">Welcome to my Snowdome Website!</h2>
+                        <p style="font-weight: bold; text-align: center;" align="center">
+                            <img style="width: 222px; height: 275px;"
+                                 src="myPictures/allB.jpg" height="282" width="244">
+                            <br>
+                            <br>
+                            <a href="all.html"><span class="statNum">${sdsSize}</span> snowdomes</a> from <a href="ctts.html"><span class="statNum">${sdCtrysSize}</span> countries</a> by <a href="cbtors.html"><span class="statNum">${sdCbtorsSize}</span> contributors</a>
+                        </p>
+						<script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
+						<script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
+						<script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
+						<div id="mapdiv" style="width: 100%; max-width: 800px; height: 250px; margin: 0 auto;"></div>
+						<div style="width: 100%; max-width: 800px; font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin: 1px auto 0; color: #B4B4B7;"></div>
+						<script type="text/javascript">
+							var map = AmCharts.makeChart("mapdiv",{
+								type: "map",
+								theme: "dark",
+								projection: "mercator",
+								panEventsEnabled : true,
+								backgroundColor : "#535364",
+								backgroundAlpha : 1,
+								zoomControl: {
+									zoomControlEnabled : true
+								},
+								dataProvider : {
+									map : "worldHigh",
+									getAreasFromMap : true,
+									areas :
+									[
+										{ "id": "CA", "showAsSelected": true }, // 13 Canada 
+										{ "id": "MX", "showAsSelected": true }, // 1  Mexico 
+										{ "id": "US", "showAsSelected": true }, // 60 United States 
+										{ "id": "AW", "showAsSelected": true }, // 1  Aruba 
+										{ "id": "BS", "showAsSelected": true }, // 3  Bahamas 
+										{ "id": "BM", "showAsSelected": true }, // 1  Bermuda 
+										{ "id": "PR", "showAsSelected": true }, // 1  Puerto Rico
+										{ "id": "JM", "showAsSelected": true }, // 1  Jamaica
+										{ "id": "AR", "showAsSelected": true }, // 5  Argentina 
+										{ "id": "BR", "showAsSelected": true }, // 2  Brazil 
+										{ "id": "CL", "showAsSelected": true }, // 1  Chile 
+										{ "id": "CO", "showAsSelected": true }, // 1  Colombia 
+										{ "id": "PY", "showAsSelected": true }, // 1  Paraguay 
+										{ "id": "UY", "showAsSelected": true }, // 1  Uruguay 
+										{ "id": "EG", "showAsSelected": true }, // 3  Egypt 
+										{ "id": "MA", "showAsSelected": true }, // 2  Morocco 
+										{ "id": "ZA", "showAsSelected": true }, // 6  South Africa 
+										{ "id": "AL", "showAsSelected": true }, // 1  Albania 
+										{ "id": "AD", "showAsSelected": true }, // 3  Andorra 
+										{ "id": "AM", "showAsSelected": true }, // 1  Armenia 
+										{ "id": "AT", "showAsSelected": true }, // 14 Austria 
+										{ "id": "AZ", "showAsSelected": true }, // 1  Azerbaijan 
+										{ "id": "BA", "showAsSelected": true }, // 1  Bosnia and Herzegovina
+										{ "id": "BE", "showAsSelected": true }, // 3  Belgium 
+										{ "id": "BG", "showAsSelected": true }, // 7  Bulgaria 
+										{ "id": "HR", "showAsSelected": true }, // 7  Croatia 
+										{ "id": "CZ", "showAsSelected": true }, // 7  Czech republic 
+										{ "id": "DK", "showAsSelected": true }, // 3  Denmark 
+										{ "id": "EE", "showAsSelected": true }, // 2  Estonia 
+										{ "id": "FI", "showAsSelected": true }, // 2  Finland 
+										{ "id": "FR", "showAsSelected": true }, // 29 France 
+										{ "id": "GE", "showAsSelected": true }, // 4  Georgia 
+										{ "id": "DE", "showAsSelected": true }, // 24 Germany 
+										{ "id": "GI", "showAsSelected": true }, // 1  Gibraltar 
+										{ "id": "GR", "showAsSelected": true }, // 15 Greece 
+										{ "id": "HU", "showAsSelected": true }, // 3  Hungary
+										{ "id": "IS", "showAsSelected": true }, // 3  Iceland
+										{ "id": "IE", "showAsSelected": true }, // 3  Ireland
+										{ "id": "IT", "showAsSelected": true }, // 33 Italy
+										{ "id": "LV", "showAsSelected": true }, // 2  Latvia
+										{ "id": "LI", "showAsSelected": true }, // 1  Liechtenstein
+										{ "id": "LT", "showAsSelected": true }, // 5  Lithuania
+										{ "id": "LU", "showAsSelected": true }, // 1  Luxembourg
+										{ "id": "MK", "showAsSelected": true }, // 2  Macedonia
+										{ "id": "MT", "showAsSelected": true }, // 4  Malta
+										{ "id": "MC", "showAsSelected": true }, // 1  Monaco
+										{ "id": "ME", "showAsSelected": true }, // 2  Montenegro
+										{ "id": "NL", "showAsSelected": true }, // 9  Netherlands 
+										{ "id": "NO", "showAsSelected": true }, // 5  Norway 
+										{ "id": "PL", "showAsSelected": true }, // 3  Poland 
+										{ "id": "PT", "showAsSelected": true }, // 6  Portugal 
+										{ "id": "RO", "showAsSelected": true }, // 8  Romania 
+										{ "id": "RU", "showAsSelected": true }, // 8  Russia 
+										{ "id": "SM", "showAsSelected": true }, // 1  San Marino 
+										{ "id": "RS", "showAsSelected": true }, // 1  Serbia and Montenegro 
+										{ "id": "SI", "showAsSelected": true }, // 7  Slovenia 
+										{ "id": "ES", "showAsSelected": true }, // 19 Spain 
+										{ "id": "SE", "showAsSelected": true }, // 2  Sweden 
+										{ "id": "CH", "showAsSelected": true }, // 8  Switzerland 
+										{ "id": "TR", "showAsSelected": true }, // 3  Turkey 
+										{ "id": "UA", "showAsSelected": true }, // 3  Ukraine 
+										{ "id": "GB", "showAsSelected": true }, // 10 United Kingdom 
+										{ "id": "VA", "showAsSelected": true }, // 1  Vatican City 
+										{ "id": "CY", "showAsSelected": true }, // 2  Cyprus 
+										{ "id": "IL", "showAsSelected": true }, // 14 Israel 
+										{ "id": "IR", "showAsSelected": true }, // 2  Iran 
+										{ "id": "JO", "showAsSelected": true }, // 2  Jordan 
+										{ "id": "KW", "showAsSelected": true }, // 1  Kuwait 
+										{ "id": "PS", "showAsSelected": true }, // 2  Palestinian Authority 
+										{ "id": "QA", "showAsSelected": true }, // 1  Qatar 
+										{ "id": "AE", "showAsSelected": true }, // 2  UAE 
+										{ "id": "IN", "showAsSelected": true }, // 2  India 
+										{ "id": "CN", "showAsSelected": true }, // 9  China 
+										{ "id": "JP", "showAsSelected": true }, // 2  Japan 
+										{ "id": "KR", "showAsSelected": true }, // 1  South Korea 
+										{ "id": "MV", "showAsSelected": true }, // 1  Maldives 
+										{ "id": "PH", "showAsSelected": true }, // 1  Philippines  
+										{ "id": "TH", "showAsSelected": true }, // 4  Thailand 
+										{ "id": "LA", "showAsSelected": true }, // 1  Laos 
+										{ "id": "VN", "showAsSelected": true }, // 2  Vietnam
+										{ "id": "KH", "showAsSelected": true }, // 2  Cambodia
+										{ "id": "SG", "showAsSelected": true }, // 3  Singapore  
+										{ "id": "MY", "showAsSelected": true }, // 1  Malaysia  
+										{ "id": "ID", "showAsSelected": true }, // 1  Indonesia 
+										{ "id": "AU", "showAsSelected": true }, // 2  Australia 
+										{ "id": "NZ", "showAsSelected": true }  // 3  New Zealand 
+									]
+								},
+								areasSettings : {
+									autoZoom : true,
+									color : "#B4B4B7",
+									colorSolid : "#000080",
+									selectedColor : "#000080",
+									outlineColor : "#666666",
+									rollOverColor : "#B4B4B7",
+									rollOverOutlineColor : "#000000"
+								}
+							});
+						</script>						
+					</div>
+                </div>
+                <div id="subPageBreaker"></div>
+            </div>
+            <div id="pageFooter">
+                <h6>
+                    <div align="center">Copyright © 2006 All Rights Reserved.
+			        </div>
+                </h6>
+            </div>
+        </div>
+    </body>
+</html>

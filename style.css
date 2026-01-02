@@ -1,0 +1,544 @@
+/* Base , Set up fonts etc.    */
+html
+{
+	height				: 100%;
+}
+
+:root
+{
+	--bg					: #0b1220;
+	--surface			: rgba(255, 255, 255, 0.08);
+	--surface-2			: rgba(255, 255, 255, 0.12);
+	--card				: rgba(255, 255, 255, 0.10);
+	--card-border		: rgba(255, 255, 255, 0.18);
+	--text				: rgba(255, 255, 255, 0.92);
+	--muted				: rgba(255, 255, 255, 0.72);
+	--link				: #a5b4fc;
+	--link-hover		: #c7d2fe;
+	--accent			: #7c5cff;
+	--accent-2			: #22d3ee;
+	--shadow			: 0 10px 30px rgba(0, 0, 0, 0.35);
+	--shadow-soft		: 0 8px 20px rgba(0, 0, 0, 0.22);
+	--radius			: 14px;
+	--radius-sm			: 10px;
+	--ring				: 0 0 0 3px rgba(124, 92, 255, 0.35);
+}
+
+*, *:before, *:after
+{
+	box-sizing			: border-box;
+}
+body
+{
+	font				: 0.95em -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+	background			: radial-gradient(1200px 700px at 10% 8%, rgba(217, 70, 239, 0.26), rgba(217, 70, 239, 0.00) 58%),
+					  radial-gradient(1000px 700px at 85% 18%, rgba(34, 211, 238, 0.22), rgba(34, 211, 238, 0.00) 60%),
+					  radial-gradient(900px 600px at 55% 92%, rgba(245, 158, 11, 0.10), rgba(245, 158, 11, 0.00) 55%),
+					  linear-gradient(180deg, #060812, #090a14 40%, var(--bg));
+	background-repeat	: no-repeat;
+	background-attachment	: fixed;
+	background-size		: cover;
+	margin				: 0px;
+	padding				: 0px;
+	min-height			: 100%;
+	color				: var(--text);
+}
+img
+{
+	max-width			: 100%;
+	height				: auto;
+}
+
+.contentContainer img
+{
+	border-radius		: 12px;
+	border				: 1px solid rgba(255, 255, 255, 0.18);
+	box-shadow			: 0 10px 20px rgba(0, 0, 0, 0.25);
+}
+
+#mainContent .contentContainer p img
+{
+	display				: block;
+	margin				: 0px auto;
+}
+
+#mainContent .contentContainer > span
+{
+	display				: block;
+	text-align			: center;
+}
+
+.contentContainer hr
+{
+	border				: none;
+	height				: 1px;
+	background			: linear-gradient(90deg, rgba(124, 92, 255, 0.00), rgba(124, 92, 255, 0.55), rgba(34, 211, 238, 0.45), rgba(34, 211, 238, 0.00));
+	width				: min(44%, 220px) !important;
+	margin				: 14px auto !important;
+	opacity				: 0.9;
+}
+
+#extraContent > hr, #extraContent2 > hr
+{
+	border				: none;
+	height				: 1px;
+	background			: linear-gradient(90deg, rgba(124, 92, 255, 0.00), rgba(124, 92, 255, 0.55), rgba(34, 211, 238, 0.45), rgba(34, 211, 238, 0.00));
+	width				: min(44%, 220px) !important;
+	margin				: 14px auto !important;
+	opacity				: 0.9;
+}
+h1
+{
+	font				: 700 1.4em -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+}
+
+a, a:visited
+{
+	text-decoration		: underline;
+	text-decoration-thickness	: 2px;
+	text-underline-offset		: 3px;
+	color				: var(--link);
+}
+a:hover
+{
+	color				: var(--link-hover);
+	text-decoration-thickness	: 3px;
+}
+
+.statNum
+{
+	display				: inline-block;
+	padding				: 1px 8px;
+	margin				: 0px 2px;
+	border-radius		: 999px;
+	background			: linear-gradient(135deg, rgba(124, 92, 255, 0.55), rgba(34, 211, 238, 0.35));
+	border				: 1px solid rgba(255, 255, 255, 0.18);
+	box-shadow			: 0 8px 18px rgba(124, 92, 255, 0.22), 0 6px 14px rgba(34, 211, 238, 0.16);
+	color				: rgba(255, 255, 255, 0.98);
+	font-weight		: 800;
+	letter-spacing		: -0.01em;
+	font-size			: 1.05em;
+}
+
+a:focus
+{
+	outline				: none;
+}
+
+a:focus-visible
+{
+	box-shadow			: var(--ring);
+	border-radius		: 8px;
+}
+
+
+#extraContent a, #extraContent a:visited, #extraContent2 a, #extraContent2 a:visited
+{
+	text-decoration		: underline;
+	text-decoration-thickness	: 2px;
+	text-underline-offset		: 3px;
+	color				: var(--link);
+}
+#extraContent a:hover, #extraContent2 a:hover
+{
+	color				: var(--link-hover);
+	text-decoration		: underline;
+	text-decoration-thickness	: 2px;
+	text-underline-offset		: 3px;
+}
+
+
+#pageHeader a, #pageHeader a:visited, #pageFooter a, #pageFooter a:visited
+{
+	text-decoration		: underline;
+	text-decoration-thickness	: 2px;
+	text-underline-offset		: 3px;
+	color				: rgba(210, 200, 255, 0.95);
+}
+#pageHeader a:hover,#pageFooter a:hover
+{
+	color				: #ffffff;
+}
+
+
+#pageWrapper
+{
+	width				: 100%;
+	margin				: 0px;
+	border				: 1px solid rgba(255, 255, 255, 0.08);
+	background-color	: transparent;
+	min-height			: 100vh;
+}
+
+#pageHeader 
+{
+	background			: linear-gradient(135deg, rgba(124, 92, 255, 0.22), rgba(34, 211, 238, 0.14));
+	border-bottom		: 1px solid rgba(255, 255, 255, 0.10);
+	backdrop-filter		: blur(10px);
+} 
+#pageHeader h1
+{
+	font-size			: clamp(1.1em, 2.2vw, 1.8em);
+	line-height			: 1.15;
+	margin				: 0px;
+	padding				: 14px 18px;
+	color				: #ffffff;
+	letter-spacing		: -0.02em;
+}
+
+#pageHeader h1 font
+{
+	font-size			: inherit;
+}
+
+.contentContainer
+{
+	padding				: 12px;
+}
+
+#subPageWrapper
+{
+	display				: grid;
+	grid-template-columns	: minmax(200px, 28%) 1fr;
+	grid-template-areas	: "nav nav"
+					  "left1 main"
+					  "left2 main";
+	grid-template-rows	: auto;
+	gap				: 14px;
+	padding			: 14px;
+	position			: relative;
+	border-radius		: 0px;
+	background			: radial-gradient(900px 520px at 18% 18%, rgba(255, 255, 255, 0.10), rgba(255, 255, 255, 0.00) 62%),
+					  radial-gradient(760px 520px at 82% 32%, rgba(34, 211, 238, 0.18), rgba(34, 211, 238, 0.00) 62%),
+					  radial-gradient(760px 520px at 72% 78%, rgba(124, 92, 255, 0.22), rgba(124, 92, 255, 0.00) 66%),
+					  linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.02));
+}
+
+body.singleLeftPane #subPageWrapper
+{
+	grid-template-areas	: "nav nav"
+					  "left1 main";
+}
+
+#subPageWrapper:before
+{
+	content				: "";
+	position			: absolute;
+	inset				: 0px;
+	border-radius		: 0px;
+	background			: radial-gradient(900px 520px at 22% 18%, rgba(255, 255, 255, 0.14), rgba(255, 255, 255, 0.00) 62%),
+					  radial-gradient(720px 520px at 82% 22%, rgba(34, 211, 238, 0.22), rgba(34, 211, 238, 0.00) 62%),
+					  radial-gradient(760px 520px at 78% 72%, rgba(124, 92, 255, 0.26), rgba(124, 92, 255, 0.00) 66%),
+					  conic-gradient(from 210deg at 40% 55%, rgba(255, 255, 255, 0.10), rgba(255, 255, 255, 0.00) 25%, rgba(255, 255, 255, 0.06) 50%, rgba(255, 255, 255, 0.00) 75%, rgba(255, 255, 255, 0.10));
+	opacity			: 0.75;
+	pointer-events		: none;
+	z-index			: 0;
+}
+
+#subPageWrapper > *
+{
+	position			: relative;
+	z-index			: 1;
+}
+
+#siteNavigation
+{
+	grid-area			: nav;
+	justify-self		: start;
+	width				: fit-content;
+	max-width			: 100%;
+	border				: none;
+	border-radius		: 0px;
+	background			: transparent;
+	box-shadow			: none;
+	backdrop-filter		: none;
+	outline				: none;
+}
+
+#extraContent
+{
+	grid-area			: left1;
+	display				: flex;
+	flex-direction		: column;
+	justify-content		: center;
+	align-self			: start;
+	border-radius		: var(--radius);
+	overflow			: hidden;
+	box-shadow			: var(--shadow-soft);
+}
+
+#extraContent2
+{
+	grid-area			: left2;
+	display				: flex;
+	flex-direction		: column;
+	justify-content		: center;
+	align-self			: start;
+	border-radius		: var(--radius);
+	overflow			: hidden;
+	box-shadow			: var(--shadow-soft);
+}
+
+#extraContent img, #extraContent2 img
+{
+	display				: block;
+	margin				: 10px auto;
+	width				: 50%;
+	max-width			: 50%;
+	height				: auto;
+	border-radius		: 12px;
+	border				: 1px solid rgba(255, 255, 255, 0.18);
+	box-shadow			: 0 10px 20px rgba(0, 0, 0, 0.25);
+}
+
+#extraContent .contentContainer, #extraContent2 .contentContainer
+{
+	text-align			: center;
+	width				: 100%;
+}
+
+#extraContent .contentContainer p, #extraContent2 .contentContainer p
+{
+	margin				: 6px 0px;
+	line-height			: 1.2;
+}
+
+#extraContent .contentContainer p + p, #extraContent2 .contentContainer p + p
+{
+	margin-top			: 10px;
+}
+
+#extraContent .contentContainer p strong, #extraContent2 .contentContainer p strong
+{
+	font-size			: clamp(0.95em, 1.2vw, 1.15em);
+}
+
+#extraContent .contentContainer p a, #extraContent2 .contentContainer p a
+{
+	font-size			: clamp(0.9em, 1.1vw, 1.05em);
+}
+
+#mainContent
+{
+	grid-area			: main;
+	min-width			: 0px;
+	border-radius		: var(--radius);
+	overflow			: hidden;
+	box-shadow			: var(--shadow);
+}
+
+#mainContent img[src*="allB"]
+{
+	width				: 50% !important;
+	max-width			: 50% !important;
+	height				: auto !important;
+	margin				: 10px auto;
+	border-radius		: 12px;
+	border				: 1px solid rgba(255, 255, 255, 0.18);
+	box-shadow			: 0 10px 20px rgba(0, 0, 0, 0.25);
+}
+
+#mainContent
+{
+	position			: relative;
+	margin 				: 0px;
+	background			: var(--surface);
+	color				: var(--text);
+	border				: 1px solid var(--card-border);
+	backdrop-filter		: blur(10px);
+}
+
+#extraContent, #extraContent2, #mainContent
+{
+	outline				: 1px solid rgba(255, 255, 255, 0.06);
+	outline-offset		: -1px;
+	box-shadow			: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+#mainContent h2
+{
+	font-size			: clamp(1.1em, 2vw, 1.6em);
+	line-height			: 1.2;
+	margin				: 0px 0px 10px;
+}
+
+#mainContent h2 + p
+{
+	font-size			: clamp(0.95em, 1.4vw, 1.15em);
+	line-height			: 1.25;
+}
+
+#mapdiv
+{
+	border-radius		: 12px;
+	border				: 1px solid rgba(255, 255, 255, 0.18);
+	box-shadow			: 0 10px 20px rgba(0, 0, 0, 0.25);
+	overflow			: hidden;
+}
+
+
+#extraContent,#extraContent2
+{
+	display				: block;
+	width				: auto;
+	margin				: 0px;
+	border				: 1px solid var(--card-border);
+	background			: var(--surface);
+	color				: var(--text);
+	backdrop-filter		: blur(10px);
+}
+#extraContent
+{
+	margin-bottom: 0px;
+}
+#userLinks
+{
+	display				: none;
+}
+
+
+#userLinks h1
+{
+	font-size			: 100%;
+	padding				: 2px 5px;
+	background-color	: #737300;
+	color				: #ffffe6;
+	border				: 1px solid #2e2e00;
+	margin				: 10px 0px 0px;
+}
+
+#userLinks ul
+{
+	display				: block;
+	list-style-type		: none;
+	margin				: 0px;
+	padding				: 4px 10px;
+	background-color	: #e3e3b6;
+	border				: solid #2e2e00;
+	border-width		: 0px 1px 1px;
+	color				: #272727;
+}
+
+#extraContent a,  #extraContent a:visited, #userLinks ul a, #userLinks ul a:visited
+{
+	color				: var(--link);
+}
+#userLinks ul a:hover, #extraContent a:hover
+{
+	color				: var(--link-hover);
+}
+
+#pageFooter
+{
+	clear				: both;
+	border				: 1px solid rgba(255, 255, 255, 0.10);
+	border-width		: 1px 0px 0px;
+	padding				: 12px 14px;
+	background			: var(--surface);
+	color				: var(--muted);
+	backdrop-filter		: blur(10px);
+}
+
+#pageFooter h6
+{
+	padding-left		: 0px;
+	margin				: 0px;
+	font-size			: clamp(0.85em, 1.1vw, 0.95em);
+	font-weight		: normal;
+}
+
+
+#pageFooter div
+{
+	text-align			: center;
+}
+
+/* Top Horizontal Navigation */
+
+#siteNavigation
+{
+	width				: auto;
+}
+#subPageBreaker
+{
+	display				: none;
+}
+#listBreaker
+{
+	clear				: both;
+	display				: block;
+}
+
+#siteNavigation ul
+{
+	list-style-type		: none;
+	margin				: 0px;
+	padding				: 0px;
+	display				: flex;
+	flex-wrap			: wrap;
+	gap				: 6px;
+}
+
+
+#siteNavigation ul li 
+{
+	display				: flex;
+	flex-wrap			: wrap;
+	gap				: 6px;
+}
+
+/* Setup Navigation Buttons */
+
+#siteNavigation a, #siteNavigation a:visited
+{
+	font-size			: clamp(0.85em, 1.2vw, 1.0em);
+	font-weight		: bold;
+	white-space		: nowrap;
+	float				: none;
+	display				: inline-block;
+	padding				: clamp(2px, 0.6vw, 6px) clamp(8px, 1.2vw, 14px);
+	line-height			: 1.2;
+	text-decoration		: none;
+	background			: rgba(255, 255, 255, 0.10);
+	color				: rgba(255, 255, 255, 0.92);
+	border				: none;
+	border-radius		: 999px;
+	transition			: transform 120ms ease, background-color 120ms ease, border-color 120ms ease;
+}
+#siteNavigation a:hover, #siteNavigation a.active
+{
+	white-space			: nowrap;
+	background			: rgba(124, 92, 255, 0.22);
+	transform			: translateY(-1px);
+}
+
+/* No title for horizontal navigation */
+#siteNavigation h1
+{
+	display				: none;
+}
+
+
+#bntag
+{
+	background-color	: transparent;
+	color				: var(--muted);
+	padding: 2px 0px; 
+	text-align: center;
+	width	: 100%;
+	margin	: 0px;
+	font-size: 90%;
+}
+
+@media screen and (max-width: 900px)
+{
+	#subPageWrapper
+	{
+		grid-template-columns	: minmax(160px, 38%) 1fr;
+		grid-template-areas	: "nav nav"
+						  "left1 main"
+						  "left2 main";
+		gap				: 8px;
+		padding			: 8px;
+	}
+}

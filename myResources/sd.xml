@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+   <snowdomes>
+      <snowdome name="Tihany" counter="1" amount="1" country="Hungary" common="--" continent="Europe" year="2005" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.tihany.hu"/>
+      <snowdome name="Budapest" counter="1" amount="1" country="Hungary" common="--" continent="Europe" year="2005" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.budapestinfo.hu"/>
+      <snowdome name="Budapest" counter="2" amount="1" country="Hungary" common="--" continent="Europe" year="2012" group="I.I." by="I.I." classified="true" site="http://www.budapestinfo.hu"/>
+      <snowdome name="Bucharest" counter="1" amount="2" country="Romania" common="--" continent="Europe" year="2019" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Bucharest" counter="2" amount="1" country="Romania" common="--" continent="Europe" year="2023" group="R. and M.M." by="M.M." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Brasov" counter="1" amount="2" country="Romania" common="--" continent="Europe" year="2019" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Sibiu" counter="1" amount="2" country="Romania" common="--" continent="Europe" year="2019" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Heroes' Cross Monument (Sinaia)" counter="1" amount="2" country="Romania" common="--" continent="Europe" year="2019" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Bran Castle" counter="1" amount="1" country="Romania" common="--" continent="Europe" year="2007" group="S. and G.L." by="S. and G.L." classified="true" site="http://www.draculascastle.com"/>
+      <snowdome name="Romania" counter="1" amount="1" country="Romania" common="--" continent="Europe" year="2007" group="S. and G.L." by="S. and G.L." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Romania" counter="2" amount="1" country="Romania" common="--" continent="Europe" year="2007" group="S. and G.L." by="S. and G.L." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Romania" counter="3" amount="2" country="Romania" common="--" continent="Europe" year="2013" group="N. and V.S." by="N. and V.S." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Serbia" counter="1" amount="1" country="Serbia" common="--" continent="Europe" year="2012" group="A.D." by="A.D." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Hisarya" counter="1" amount="1" country="Bulgaria" common="--" continent="Europe" year="2014" group="G. and B.G." by="G.G." classified="true" site="http://www.nessebar.net"/>
+      <snowdome name="Nessebar" counter="1" amount="1" country="Bulgaria" common="--" continent="Europe" year="2006" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.nessebar.net"/>
+      <snowdome name="Borovets" counter="1" amount="1" country="Bulgaria" common="--" continent="Europe" year="2011" group="J. and L.G., N. and V.S." by="J. and L.G., N. and V.S." classified="true" site="http://www.nessebar.net"/>
+      <snowdome name="Bansko" counter="1" amount="1" country="Bulgaria" common="--" continent="Europe" year="2014" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.nessebar.net"/>
+      <snowdome name="Plovdiv" counter="1" amount="1" country="Bulgaria" common="--" continent="Europe" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.nessebar.net"/>
+      <snowdome name="Sofia" counter="1" amount="1" country="Bulgaria" common="--" continent="Europe" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.nessebar.net"/>
+      <snowdome name="Bulgaria" counter="1" amount="1" country="Bulgaria" common="--" continent="Europe" year="2006" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Saratov" counter="1" amount="2" country="Russia" common="--" continent="Europe" year="2019" group="S. and G.L." by="S. and G.L." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="St. Petersburg" counter="1" amount="1" country="Russia" common="--" continent="Europe" year="2006" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.saint-petersburg.com"/>
+      <snowdome name="St. Petersburg" counter="2" amount="1" country="Russia" common="--" continent="Europe" year="2003" group="R.G." by="R.G." classified="true" site="http://www.saint-petersburg.com"/>
+      <snowdome name="St. Petersburg" counter="3" amount="1" country="Russia" common="--" continent="Europe" year="2008" group="A.B." by="A.B." classified="true" site="http://www.saint-petersburg.com"/>
+      <snowdome name="St. Petersburg" counter="4" amount="1" country="Russia" common="--" continent="Europe" year="2015" group="N. and V.S." by="N.S." classified="true" site="http://www.saint-petersburg.com"/>
+      <snowdome name="Moscow" counter="1" amount="1" country="Russia" common="--" continent="Europe" year="2003" group="N. and V.S." by="N. and V.S." classified="true" site="http://www.moscowcity.com"/>
+      <snowdome name="Moscow" counter="2" amount="1" country="Russia" common="--" continent="Europe" year="2006" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.moscowcity.com"/>
+      <snowdome name="Moscow" counter="3" amount="1" country="Russia" common="--" continent="Europe" year="2006" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.moscowcity.com"/>
+      <snowdome name="Kiev" counter="1" amount="1" country="Ukraine" common="--" continent="Europe" year="2017" group="D.R." by="D.R." classified="true" site="http://www.moscowcity.com"/>
+      <snowdome name="Kiev" counter="2" amount="1" country="Ukraine" common="--" continent="Europe" year="2017" group="D.R." by="D.R." classified="true" site="http://www.moscowcity.com"/>
+      <snowdome name="Ukraine" counter="1" amount="1" country="Ukraine" common="--" continent="Europe" year="2017" group="D.R." by="D.R." classified="true" site="http://www.moscowcity.com"/>
+      <snowdome name="Vilnius" counter="1" amount="2" country="Lithuania" common="--" continent="Europe" year="2011" group="R.F." by="R.F." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Kaunas" counter="1" amount="2" country="Lithuania" common="--" continent="Europe" year="2019" group="G. and B.G." by="G.G." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Trakai" counter="1" amount="1" country="Lithuania" common="--" continent="Europe" year="2019" group="G. and B.G." by="G.G." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Lithuania" counter="1" amount="1" country="Lithuania" common="--" continent="Europe" year="2015" group="I.K." by="I.K." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Latvia" counter="1" amount="1" country="Latvia" common="--" continent="Europe" year="2011" group="N. and V.S." by="N. and V.S." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Riga" counter="1" amount="2" country="Latvia" common="--" continent="Europe" year="2019" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.moscowcity.com"/>
+      <snowdome name="Estonia" counter="1" amount="1" country="Estonia" common="--" continent="Europe" year="2011" group="S.E." by="S.E." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Tallinn" counter="1" amount="1" country="Estonia" common="--" continent="Europe" year="2011" group="R.F." by="R.F." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Karpacz" counter="1" amount="1" country="Poland" common="--" continent="Europe" year="2016" group="G. and B.G." by="G.G." classified="true" site="http://www.prague.cz"/>
+      <snowdome name="Gdansk" counter="1" amount="1" country="Poland" common="--" continent="Europe" year="2011" group="R.F." by="R.F." classified="true" site="http://www.prague.cz"/>
+      <snowdome name="Warsaw" counter="1" amount="1" country="Poland" common="--" continent="Europe" year="2011" group="R.F." by="R.F." classified="true" site="http://www.prague.cz"/>
+      <snowdome name="Prague" counter="1" amount="1" country="Czech Republic" common="--" continent="Europe" year="2000" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.prague.cz"/>
+      <snowdome name="Karlstejn" counter="1" amount="1" country="Czech Republic" common="--" continent="Europe" year="2000" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.hradkarlstejn.cz"/>
+      <snowdome name="Karlovy Vary" counter="1" amount="1" country="Czech Republic" common="--" continent="Europe" year="2015" group="D. and B.A." by="D. and B.A." classified="true" site="http://www.hradkarlstejn.cz"/>
+      <snowdome name="Cesky Krumlov" counter="1" amount="1" country="Czech Republic" common="--" continent="Europe" year="2017" group="G. and B.G." by="G.G." classified="true" site="http://www.hradkarlstejn.cz"/>
+      <snowdome name="Cesky Krumlov" counter="2" amount="1" country="Czech Republic" common="--" continent="Europe" year="2024" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.hradkarlstejn.cz"/>
+      <snowdome name="Kutna Hora" counter="1" amount="1" country="Czech Republic" common="--" continent="Europe" year="2024" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.hradkarlstejn.cz"/>
+      <snowdome name="Hluboka Castle" counter="1" amount="1" country="Czech Republic" common="--" continent="Europe" year="2024" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.hradkarlstejn.cz"/>
+      <snowdome name="Tirana" counter="1" amount="2" country="Albania" common="--" continent="Europe" year="2019" group="N. and V.S." by="N. and V.S." classified="true" site="http://www.romaniatourism.com"/>
+      <snowdome name="Skopje" counter="1" amount="1" country="Macedonia" common="--" continent="Europe" year="2015" group="M.L." by="M.L." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Ohrid" counter="1" amount="1" country="Macedonia" common="--" continent="Europe" year="2015" group="M.L." by="M.L." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Sarajevo" counter="1" amount="1" country="Bosnia and Herzegovina" common="--" continent="Europe" year="2015" group="M.L." by="M.L." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Bled" counter="1" amount="1" country="Slovenia" common="--" continent="Europe" year="2005" group="S. and G.L." by="S. and G.L." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Bled" counter="2" amount="2" country="Slovenia" common="--" continent="Europe" year="2006" group="N. and V.S." by="N. and V.S." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Bohinj" counter="1" amount="2" country="Slovenia" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Savica Falls" counter="1" amount="1" country="Slovenia" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Postojna Cave" counter="1" amount="1" country="Slovenia" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Piran" counter="1" amount="1" country="Slovenia" common="--" continent="Europe" year="2010" group="J. and L.G., G. and B.G., I.I." by="J. and L.G., G.G., I.I." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Ljubljana" counter="1" amount="2" country="Slovenia" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.bled.si"/>
+      <snowdome name="Kotor" counter="1" amount="1" country="Montenegro" common="--" continent="Europe" year="2009" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.korcula.net"/>
+      <snowdome name="Montenegro" counter="1" amount="1" country="Montenegro" common="--" continent="Europe" year="2009" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.korcula.net"/>
+      <snowdome name="Croatia" counter="1" amount="1" country="Croatia" common="--" continent="Europe" year="2010" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site="http://www.korcula.net"/>
+      <snowdome name="Zagreb" counter="1" amount="1" country="Croatia" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.austria.info"/>
+      <snowdome name="Opatija" counter="1" amount="1" country="Croatia" common="--" continent="Europe" year="2010" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site="http://www.korcula.net"/>
+      <snowdome name="Plitvice Lakes Park" counter="1" amount="1" country="Croatia" common="--" continent="Europe" year="2010" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site="http://www.korcula.net"/>
+      <snowdome name="Rovinj" counter="1" amount="1" country="Croatia" common="--" continent="Europe" year="2010" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site="http://www.korcula.net"/>
+      <snowdome name="Porec" counter="1" amount="1" country="Croatia" common="--" continent="Europe" year="2010" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site="http://www.korcula.net"/>
+      <snowdome name="Korcula" counter="1" amount="1" country="Croatia" common="--" continent="Europe" year="2006" group="R.G." by="R.G." classified="true" site="http://www.korcula.net"/>
+      <snowdome name="Hochosterwitz Castle" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.austria.info"/>
+      <snowdome name="Minimundus Park" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.austria.info"/>
+      <snowdome name="Carinthia" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.austria.info"/>
+      <snowdome name="Graz" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="2010" group="I.I." by="I.I." classified="true" site="http://www.austria.info"/>
+      <snowdome name="Salzburg" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="2005" group="N. and V.S." by="N.S." classified="true" site="http://www.salzburg.info"/>
+      <snowdome name="Hallstatt" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="2013" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.salzburg.info"/>
+      <snowdome name="Vienna" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="1999" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.vienna.info"/>
+      <snowdome name="Vienna" counter="2" amount="1" country="Austria" common="--" continent="Europe" year="199?" group="M. and A.L." by="M. and A.L." classified="true" site="http://www.vienna.info"/>
+      <snowdome name="Vienna" counter="3" amount="1" country="Austria" common="--" continent="Europe" year="2005" group="N. and V.S." by="N.S." classified="true" site="http://www.vienna.info"/>
+      <snowdome name="Austria" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="1999" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.austria.info"/>
+      <snowdome name="Austria" counter="2" amount="1" country="Austria" common="--" continent="Europe" year="2007" group="I.I." by="I.I." classified="true" site="http://www.austria.info"/>
+      <snowdome name="Grossglockner Peak" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="2007" group="I.I." by="I.I." classified="true" site="http://www.grossglockner.com"/>
+      <snowdome name="St. Anton am Arlberg" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="2020" group="J. and L.G." by="L.G." classified="true" site="http://www.grossglockner.com"/>
+      <snowdome name="Ischgl" counter="1" amount="1" country="Austria" common="--" continent="Europe" year="2022" group="N. and V.S." by="N. and V.S." classified="true" site="http://www.grossglockner.com"/>
+      <snowdome name="Liechtenstein" counter="1" amount="1" country="Liechtenstein" common="--" continent="Europe" year="199?" group="R.G." by="R.G." classified="true" site="http://www.liechtenstein.li"/>
+      <snowdome name="Lucerne" counter="1" amount="1" country="Switzerland" common="--" continent="Europe" year="2015" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.berninfo.com"/>
+      <snowdome name="Geneva" counter="1" amount="1" country="Switzerland" common="--" continent="Europe" year="2019" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.berninfo.com"/>
+      <snowdome name="Zurich" counter="1" amount="1" country="Switzerland" common="--" continent="Europe" year="2018" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.berninfo.com"/>
+      <snowdome name="Bern" counter="1" amount="1" country="Switzerland" common="--" continent="Europe" year="199?" group="R.G." by="R.G." classified="true" site="http://www.berninfo.com"/>
+      <snowdome name="Chillon Castle" counter="1" amount="1" country="Switzerland" common="--" continent="Europe" year="2000" group="M.W., Y.Y." by="M.W., Y.Y." classified="true" site="http://www.chillon.ch"/>
+      <snowdome name="Chillon Castle" counter="2" amount="1" country="Switzerland" common="--" continent="Europe" year="2014" group="I.I." by="I.I." classified="true" site="http://www.chillon.ch"/>
+      <snowdome name="Champoussin" counter="1" amount="1" country="Switzerland" common="--" continent="Europe" year="199?" group="I.I." by="I.I." classified="true" site="http://www.champoussin.com"/>
+      <snowdome name="Switzerland" counter="1" amount="1" country="Switzerland" common="--" continent="Europe" year="199?" group="I.I." by="I.I." classified="true" site="http://www.myswitzerland.com"/>
+      <snowdome name="Checkpoint Charlie (Berlin)" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2019" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.berlin.de"/>
+      <snowdome name="Berlin" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2002" group="S. and G.L." by="S. and G.L." classified="true" site="http://www.berlin.de"/>
+      <snowdome name="Berlin" counter="2" amount="1" country="Germany" common="--" continent="Europe" year="200?" group="R.G." by="R.G." classified="true" site="http://www.berlin.de"/>
+      <snowdome name="Leipzig" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="200?" group="R.G." by="R.G." classified="true" site="http://www.leipzig.de"/>
+      <snowdome name="Dresden" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2018" group="G. and B.G., D. and B.A." by="G.G., D. and B.A." classified="true" site="http://www.gorchfock.de"/>
+      <snowdome name="Koln" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2002" group="G. and B.G." by="B.G." classified="true" site="http://www.koeln.de"/>
+      <snowdome name="Koln" counter="2" amount="1" country="Germany" common="--" continent="Europe" year="2006" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.koeln.de"/>
+      <snowdome name="Koln" counter="3" amount="1" country="Germany" common="--" continent="Europe" year="2016" group="V.M." by="V.M." classified="true" site="http://www.koeln.de"/>
+      <snowdome name="Dusseldorf" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2006" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.duesseldorf.de"/>
+      <snowdome name="Black Forest" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2012" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.muenchen.de"/>
+      <snowdome name="Constance" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2012" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.muenchen.de"/>
+      <snowdome name="Meersburg" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2012" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.muenchen.de"/>
+      <snowdome name="Baden Baden Casino" counter="1" amount="2" country="Germany" common="--" continent="Europe" year="2015" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.muenster.de"/>
+      <snowdome name="Hohenzollern Castle" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2015" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.muenster.de"/>
+      <snowdome name="Mainau Island" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2015" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.muenster.de"/>
+      <snowdome name="Frankfurt" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2025" group="J. and L.G." by="L.G." classified="true" site="http://www.muenchen.de"/>
+      <snowdome name="Munich" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2001" group="G. and I.B., R. and M.M." by="G. and I.B., R. and M.M." classified="true" site="http://www.muenchen.de"/>
+      <snowdome name="Bremen" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2004" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.bremen.de"/>
+      <snowdome name="Munster" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2006" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.muenster.de"/>
+      <snowdome name="Hamburg" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2004" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.hamburg.de"/>
+      <snowdome name="Magdeburg" counter="1" amount="2" country="Germany" common="--" continent="Europe" year="2012" group="I.K. and E.N." by="I.K. and E.N." classified="true" site="http://www.hamburg.de"/>
+      <snowdome name="Neuschwanstein Castle" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2001" group="G. and I.B., R. and M.M." by="G. and I.B., R. and M.M." classified="true" site="http://www.neuschwanstein.de"/>
+      <snowdome name="Buxtehude" counter="1" amount="2" country="Germany" common="--" continent="Europe" year="2015" group="G. and B.G., D. and B.A." by="G.G., D. and B.A." classified="true" site="http://www.gorchfock.de"/>
+      <snowdome name="Gorch Fock Ship" counter="1" amount="1" country="Germany" common="--" continent="Europe" year="2004" group="G. and B.G." by="G. and B.G." classified="true" site="http://www.gorchfock.de"/>
+      <snowdome name="Copenhagen" counter="1" amount="1" country="Denmark" common="--" continent="Europe" year="200?" group="R.G." by="R.G." classified="true" site="http://www.visitcopenhagen.com"/>
+      <snowdome name="Copenhagen" counter="2" amount="1" country="Denmark" common="--" continent="Europe" year="1996" group="J. and L.G." by="L.G." classified="true" site="http://www.visitcopenhagen.com"/>
+      <snowdome name="Denmark" counter="1" amount="1" country="Denmark" common="--" continent="Europe" year="2013" group="A. and A.K." by="A. and A.K." classified="true" site="http://www.visitcopenhagen.com"/>
+      <snowdome name="Norway" counter="1" amount="1" country="Norway" common="--" continent="Europe" year="2012" group="S.E." by="S.E." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Norway" counter="2" amount="1" country="Norway" common="--" continent="Europe" year="2017" group="I.I." by="I.I." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Bergen" counter="1" amount="2" country="Norway" common="--" continent="Europe" year="2012" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Geiranger" counter="1" amount="1" country="Norway" common="--" continent="Europe" year="2012" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Oslo" counter="1" amount="2" country="Norway" common="--" continent="Europe" year="2012" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Stockholm" counter="1" amount="2" country="Sweden" common="--" continent="Europe" year="2012" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Sweden" counter="1" amount="1" country="Sweden" common="--" continent="Europe" year="200?" group="R.G." by="R.G." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Lapland" counter="1" amount="1" country="Finland" common="--" continent="Europe" year="2010" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Helsinki" counter="1" amount="1" country="Finland" common="--" continent="Europe" year="2010" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Thingvellir National Park" counter="1" amount="2" country="Iceland" common="--" continent="Europe" year="2023" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Reykjavik" counter="1" amount="2" country="Iceland" common="--" continent="Europe" year="2023" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Iceland" counter="1" amount="2" country="Iceland" common="--" continent="Europe" year="2011" group="A. and A.K." by="A.K." classified="true" site="http://www.sweden.se"/>
+      <snowdome name="Netherlands" counter="1" amount="1" country="Netherlands" common="--" continent="Europe" year="2002" group="G. and B.G." by="B.G." classified="true" site="http://www.holland.com"/>
+      <snowdome name="Amsterdam" counter="1" amount="1" country="Netherlands" common="--" continent="Europe" year="1999" group="J. and L.G." by="L.G." classified="true" site="http://www.amsterdam.info"/>
+      <snowdome name="Amsterdam" counter="2" amount="1" country="Netherlands" common="--" continent="Europe" year="1996" group="J. and L.G." by="L.G." classified="true" site="http://www.amsterdam.info"/>
+      <snowdome name="Afsluitdijk Causeway" counter="1" amount="1" country="Netherlands" common="--" continent="Europe" year="2008" group="J. and L.G., G. and B.G." by="L.G., G. and B.G." classified="true" site="http://www.amsterdam.info"/>
+      <snowdome name="Madurodam Park" counter="1" amount="1" country="Netherlands" common="--" continent="Europe" year="2008" group="J. and L.G., G. and B.G." by="L.G., G. and B.G." classified="true" site="http://www.amsterdam.info"/>
+      <snowdome name="Avifauna Park" counter="1" amount="1" country="Netherlands" common="--" continent="Europe" year="2008" group="J. and L.G., G. and B.G." by="L.G., G. and B.G." classified="true" site="http://www.amsterdam.info"/>
+      <snowdome name="Delft" counter="1" amount="1" country="Netherlands" common="--" continent="Europe" year="2014" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.amsterdam.info"/>
+      <snowdome name="Zaanse Schans" counter="1" amount="1" country="Netherlands" common="--" continent="Europe" year="2014" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.amsterdam.info"/>
+      <snowdome name="Volendam" counter="1" amount="1" country="Netherlands" common="--" continent="Europe" year="2015" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.amsterdam.info"/>
+      <snowdome name="Brussels" counter="1" amount="1" country="Belgium" common="--" continent="Europe" year="1996" group="J. and L.G." by="L.G." classified="true" site="http://www.brussels.org"/>
+      <snowdome name="Brussels" counter="2" amount="1" country="Belgium" common="--" continent="Europe" year="2012" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.brussels.org"/>
+      <snowdome name="Durbuy" counter="1" amount="2" country="Belgium" common="--" continent="Europe" year="2006" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.durbuy.be"/>
+      <snowdome name="Luxembourg" counter="1" amount="2" country="Luxembourg" common="--" continent="Europe" year="2002" group="G. and B.G." by="B.G." classified="true" site="http://www.visitluxembourg.com"/>
+      <snowdome name="London" counter="1" amount="1" country="England" common="Great Britain" continent="Europe" year="199?" group="J. and A.L." by="J. and A.L." classified="true" site="http://www.visitlondon.com"/>
+      <snowdome name="London" counter="2" amount="1" country="England" common="Great Britain" continent="Europe" year="1998" group="G. and I.B." by="I.B." classified="true" site="http://www.visitlondon.com"/>
+      <snowdome name="London" counter="3" amount="1" country="England" common="Great Britain" continent="Europe" year="199?" group="N. and V.S." by="N.S." classified="true" site="http://www.visitlondon.com"/>
+      <snowdome name="London" counter="4" amount="2" country="England" common="Great Britain" continent="Europe" year="2018" group="T.L." by="T.L." classified="true" site="http://www.visitlondon.com"/>
+      <snowdome name="Oxford University" counter="1" amount="1" country="England" common="Great Britain" continent="Europe" year="2014" group="S. and G.L." by="S. and G.L." classified="true" site="http://www.visitlondon.com"/>
+      <snowdome name="Edinburgh" counter="1" amount="1" country="Scotland" common="Great Britain" continent="Europe" year="200?" group="R.G." by="R.G." classified="true" site="http://www.edinburgh.org"/>
+      <snowdome name="Edinburgh" counter="2" amount="1" country="Scotland" common="Great Britain" continent="Europe" year="2011" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.edinburgh.org"/>
+      <snowdome name="Falkirk Wheel" counter="1" amount="1" country="Scotland" common="Great Britain" continent="Europe" year="2011" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.edinburgh.org"/>
+      <snowdome name="Nevis Range" counter="1" amount="2" country="Scotland" common="Great Britain" continent="Europe" year="2011" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.edinburgh.org"/>
+      <snowdome name="Ben Nevis Peak" counter="1" amount="1" country="Scotland" common="Great Britain" continent="Europe" year="2011" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.edinburgh.org"/>
+      <snowdome name="Gibraltar (Great Britain)" counter="1" amount="1" country="Gibraltar (Great Britain)" common="--" continent="Europe" year="2000" group="G. and B.G." by="B.G." classified="true" site="http://www.gibraltar.com"/>
+      <snowdome name="Giant's Causeway" counter="1" amount="1" country="Ireland" common="--" continent="Europe" year="2012" group="I.I." by="I.I." classified="true" site="http://www.dublin.ie"/>
+      <snowdome name="Dublin" counter="1" amount="1" country="Ireland" common="--" continent="Europe" year="199?" group="N. and V.S." by="N.S." classified="true" site="http://www.dublin.ie"/>
+      <snowdome name="Ireland" counter="1" amount="1" country="Ireland" common="--" continent="Europe" year="199?" group="N. and V.S." by="N.S." classified="true" site="http://www.discoverireland.ie"/>
+      <snowdome name="Paris" counter="1" amount="1" country="France" common="--" continent="Europe" year="2000" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Paris" counter="2" amount="1" country="France" common="--" continent="Europe" year="2000" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Paris" counter="3" amount="1" country="France" common="--" continent="Europe" year="2013" group="J. and L.G." by="J.G." classified="true" site=""/>
+      <snowdome name="Rouen" counter="1" amount="1" country="France" common="--" continent="Europe" year="2005" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Rouen" counter="2" amount="1" country="France" common="--" continent="Europe" year="2013" group="J. and L.G." by="J.G." classified="true" site=""/>
+      <snowdome name="Breteuil Castle" counter="1" amount="1" country="France" common="--" continent="Europe" year="2013" group="J. and L.G." by="J.G." classified="true" site=""/>
+      <snowdome name="Chambord Castle" counter="1" amount="1" country="France" common="--" continent="Europe" year="2005" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Amboise Castle" counter="1" amount="1" country="France" common="--" continent="Europe" year="2005" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Saint Malo" counter="1" amount="1" country="France" common="--" continent="Europe" year="200?" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Mont Saint Michel" counter="1" amount="1" country="France" common="--" continent="Europe" year="200?" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Verdon Gorge" counter="1" amount="1" country="France" common="--" continent="Europe" year="2009" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="French Riviera" counter="1" amount="1" country="France" common="--" continent="Europe" year="2011" group="I.I." by="I.I." classified="true" site=""/>
+      <snowdome name="Saint Paul de Vence" counter="1" amount="1" country="France" common="--" continent="Europe" year="2011" group="I.I." by="I.I." classified="true" site=""/>
+      <snowdome name="Provence" counter="1" amount="1" country="France" common="--" continent="Europe" year="2009" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Strasbourg" counter="1" amount="1" country="France" common="--" continent="Europe" year="2012" group="G. and I.B." by="G. and I.B." classified="true" site="http://www.muenchen.de"/>
+      <snowdome name="La Volerie des Aigles" counter="1" amount="1" country="France" common="--" continent="Europe" year="2015" group="R. and M.M." by="R. and M.M." classified="true" site="http://www.muenchen.de"/>
+      <snowdome name="Colmar" counter="1" amount="1" country="France" common="--" continent="Europe" year="2015" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.muenchen.de"/>
+      <snowdome name="Haut Koenigsbourg Castle" counter="1" amount="1" country="France" common="--" continent="Europe" year="2015" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.muenchen.de"/>
+      <snowdome name="Annecy" counter="1" amount="1" country="France" common="--" continent="Europe" year="2001" group="G. and I.B., R. and M.M." by="G. and I.B., R. and M.M." classified="true" site=""/>
+      <snowdome name="Savoie" counter="1" amount="1" country="France" common="--" continent="Europe" year="2018" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Les Arcs" counter="1" amount="1" country="France" common="--" continent="Europe" year="2003" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="La Plagne" counter="1" amount="1" country="France" common="--" continent="Europe" year="2000" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Val Thorens" counter="1" amount="1" country="France" common="--" continent="Europe" year="2001" group="G. and I.B., R. and M.M." by="G. and I.B., R. and M.M." classified="true" site=""/>
+      <snowdome name="Val Thorens" counter="2" amount="1" country="France" common="--" continent="Europe" year="2019" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Tignes" counter="1" amount="1" country="France" common="--" continent="Europe" year="2002" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Val d'Isere" counter="1" amount="1" country="France" common="--" continent="Europe" year="2001" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Alpe d'Huez" counter="1" amount="1" country="France" common="--" continent="Europe" year="2012" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Alps" counter="1" amount="1" country="France" common="--" continent="Europe" year="1996" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Alps" counter="2" amount="1" country="France" common="--" continent="Europe" year="2002" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Italy" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2016" group="N. and V.S." by="V.S." classified="true" site=""/>
+      <snowdome name="Sestriere" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2002" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Madona di Campiglio" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2014" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Campitello di Fassa" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2022" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="San Remo" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2009" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Sirmione" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2009" group="G. and I.B." by="G. and I.B." classified="true" site=""/>
+      <snowdome name="Lake Garda" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2009" group="G. and I.B." by="G. and I.B." classified="true" site=""/>
+      <snowdome name="Varone Falls" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2013" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Trieste" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Treviso" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2023" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="San Michele al Tagliamento (Bibione)" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2010" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Venice" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2001" group="G. and I.B., R. and M.M." by="G. and I.B., R. and M.M." classified="true" site=""/>
+      <snowdome name="Verona" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2003" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Verona" counter="2" amount="1" country="Italy" common="--" continent="Europe" year="2015" group="A. and A.K." by="A.K." classified="true" site=""/>
+      <snowdome name="Lucca" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2004" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Lucca" counter="2" amount="1" country="Italy" common="--" continent="Europe" year="2013" group="I.I." by="I.I." classified="true" site=""/>
+      <snowdome name="Pisa" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2000" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Florence" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2000" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="San Gimignano" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2000" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Siena" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2000" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Pompei" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2003" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Capri" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2003" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Naples" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2003" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Alberobello" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2018" group="I.I." by="I.I." classified="true" site=""/>
+      <snowdome name="Agrigento" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2011" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site=""/>
+      <snowdome name="Taormina" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2011" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site=""/>
+      <snowdome name="Syracuse" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2011" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site=""/>
+      <snowdome name="Catania" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2011" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site=""/>
+      <snowdome name="Palermo" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2011" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site=""/>
+      <snowdome name="Messina" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2011" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site=""/>
+      <snowdome name="Noto" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2023" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Rome" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2000" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Turin" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2019" group="R. and M.M." by="M.M." classified="true" site=""/>
+      <snowdome name="Milan" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="199?" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Milan" counter="2" amount="1" country="Italy" common="--" continent="Europe" year="199?" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Vatican" counter="1" amount="1" country="Vatican" common="--" continent="Europe" year="2000" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="San Marino" counter="1" amount="2" country="San Marino" common="--" continent="Europe" year="2003" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Monaco" counter="1" amount="1" country="Monaco" common="--" continent="Europe" year="2009" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Andorra" counter="1" amount="1" country="Andorra" common="--" continent="Europe" year="2010" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Andorra" counter="2" amount="1" country="Andorra" common="--" continent="Europe" year="2010" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Soldeu" counter="1" amount="1" country="Andorra" common="--" continent="Europe" year="2013" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Spain" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2000" group="G. and B.G." by="B.G." classified="true" site=""/>
+      <snowdome name="Spain" counter="2" amount="1" country="Spain" common="--" continent="Europe" year="2011" group="S.E." by="S.E." classified="true" site=""/>
+      <snowdome name="Sevilla" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2000" group="G. and B.G." by="B.G." classified="true" site=""/>
+      <snowdome name="Barcelona" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2003" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Blanes" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2015" group="G. and I.B., R. and M.M." by="I.B., M.M." classified="true" site=""/>
+      <snowdome name="Besalu" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2018" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Rupit" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2018" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Tossa de Mar" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2018" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Montserrat Abbey" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2008" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Figueres" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2008" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Girona" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2006" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Costa Brava" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2006" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Cordoba" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="1998" group="G. and B.G." by="G.G." classified="true" site=""/>
+      <snowdome name="Cordoba" counter="2" amount="1" country="Spain" common="--" continent="Europe" year="2003" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Madrid" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="1998" group="G. and B.G." by="G.G." classified="true" site=""/>
+      <snowdome name="Segovia" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="1998" group="G. and B.G." by="G.G." classified="true" site=""/>
+      <snowdome name="Toledo" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2019" group="I.I." by="I.I." classified="true" site=""/>
+      <snowdome name="Tenerife" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2003" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Canary Islands" counter="1" amount="1" country="Spain" common="--" continent="Europe" year="2013" group="A. and A.K." by="A. and A.K." classified="true" site=""/>
+      <snowdome name="Lisbon" counter="1" amount="1" country="Portugal" common="--" continent="Europe" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Sintra" counter="1" amount="1" country="Portugal" common="--" continent="Europe" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Sintra" counter="2" amount="1" country="Portugal" common="--" continent="Europe" year="2019" group="R.S." by="R.S." classified="true" site=""/>
+      <snowdome name="Fatima" counter="1" amount="1" country="Portugal" common="--" continent="Europe" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Porto" counter="1" amount="1" country="Portugal" common="--" continent="Europe" year="2009" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Porto" counter="2" amount="1" country="Portugal" common="--" continent="Europe" year="2017" group="I.I." by="I.I." classified="true" site=""/>
+      <snowdome name="Rhodes" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="200?" group="G. and I.B." by="G. and I.B." classified="true" site=""/>
+      <snowdome name="Greece" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2005" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Greece" counter="2" amount="1" country="Greece" common="--" continent="Europe" year="2019" group="I.I." by="I.I." classified="true" site=""/>
+      <snowdome name="Lindos" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2005" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Kos" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2007" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Crete" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2011" group="N. and V.S." by="V.S." classified="true" site=""/>
+      <snowdome name="Chania" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2009" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Heraklion" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2019" group="G. and I.B." by="G. and I.B." classified="true" site=""/>
+      <snowdome name="Corfu" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2009" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Syros" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2007" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Santorini" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2007" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Agios Nikolaos" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2012" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Paralia" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2022" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Thessaloniki" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2022" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Athens" counter="1" amount="1" country="Greece" common="--" continent="Europe" year="2007" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Athens" counter="2" amount="1" country="Greece" common="--" continent="Europe" year="2012" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Cyprus" counter="1" amount="1" country="Cyprus" common="--" continent="Europe" year="2000" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Cyprus" counter="2" amount="1" country="Cyprus" common="--" continent="Europe" year="2016" group="A.G." by="A.G." classified="true" site=""/>
+      <snowdome name="Blue Grotto" counter="1" amount="1" country="Malta" common="--" continent="Europe" year="2010" group="M.G." by="M.G." classified="true" site=""/>
+      <snowdome name="Marsaxlokk" counter="1" amount="1" country="Malta" common="--" continent="Europe" year="2016" group="I.I." by="I.I." classified="true" site=""/>
+      <snowdome name="Gozo" counter="1" amount="1" country="Malta" common="--" continent="Europe" year="2023" group="R. and M.M." by="M.M." classified="true" site=""/>
+      <snowdome name="Malta" counter="1" amount="1" country="Malta" common="--" continent="Europe" year="2023" group="R. and M.M." by="M.M." classified="true" site=""/>
+      <snowdome name="Tbilisi" counter="1" amount="1" country="Georgia" common="--" continent="Europe" year="2023" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Mtskheta" counter="1" amount="1" country="Georgia" common="--" continent="Europe" year="2023" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Mtskheta" counter="2" amount="1" country="Georgia" common="--" continent="Europe" year="2024" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Batumi" counter="1" amount="1" country="Georgia" common="--" continent="Europe" year="2025" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Yerevan" counter="1" amount="1" country="Armenia" common="--" continent="Europe" year="2016" group="D.S." by="D.S." classified="true" site=""/>
+      <snowdome name="Baku" counter="1" amount="1" country="Azerbaijan" common="--" continent="Europe" year="2016" group="D.S." by="D.S." classified="true" site=""/>
+      <snowdome name="Istanbul" counter="1" amount="1" country="Turkey" common="--" continent="Asia" year="2008" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Marmaris" counter="1" amount="1" country="Turkey" common="--" continent="Asia" year="2005" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Alanya" counter="1" amount="1" country="Turkey" common="--" continent="Asia" year="2007" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Taj Mahal" counter="1" amount="1" country="India" common="--" continent="Asia" year="2012" group="S.K." by="S.K." classified="true" site=""/>
+      <snowdome name="Mumbai" counter="1" amount="1" country="India" common="--" continent="Asia" year="2015" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Maldive Islands" counter="1" amount="1" country="Maldive Islands" common="--" continent="Asia" year="2003" group="G. and I.B." by="G. and I.B." classified="true" site=""/>
+      <snowdome name="Laos" counter="1" amount="1" country="Laos" common="--" continent="Asia" year="2018" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Saigon" counter="1" amount="1" country="Vietnam" common="--" continent="Asia" year="2025" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Benh Thanh Market (Saigon)" counter="1" amount="1" country="Vietnam" common="--" continent="Asia" year="2025" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Angkor Wat" counter="1" amount="1" country="Cambodia" common="--" continent="Asia" year="2025" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Angkor Wat" counter="2" amount="1" country="Cambodia" common="--" continent="Asia" year="2025" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Phuket" counter="1" amount="1" country="Thailand" common="--" continent="Asia" year="2011" group="M.Y." by="M.Y." classified="true" site=""/>
+      <snowdome name="Chiang Mai" counter="1" amount="2" country="Thailand" common="--" continent="Asia" year="2018" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Bangkok" counter="1" amount="1" country="Thailand" common="--" continent="Asia" year="2018" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Thailand" counter="1" amount="1" country="Thailand" common="--" continent="Asia" year="2011" group="M.Y." by="M.Y." classified="true" site=""/>
+      <snowdome name="Kuala Lumpur" counter="1" amount="2" country="Malaysia" common="--" continent="Asia" year="2011" group="M.Y." by="M.Y." classified="true" site=""/>
+      <snowdome name="Jakarta" counter="1" amount="2" country="Indonesia" common="--" continent="Asia" year="2011" group="M.Y." by="M.Y." classified="true" site=""/>
+      <snowdome name="Universal Studios Singapore Park" counter="1" amount="2" country="Singapore" common="--" continent="Asia" year="2018" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Singapore" counter="1" amount="2" country="Singapore" common="--" continent="Asia" year="2012" group="N. and V.S." by="V.S." classified="true" site=""/>
+      <snowdome name="Singapore" counter="2" amount="1" country="Singapore" common="--" continent="Asia" year="2010" group="M.Y." by="M.Y." classified="true" site=""/>
+      <snowdome name="Philippines" counter="1" amount="2" country="Philippines" common="--" continent="Asia" year="2016" group="A.U." by="A.U." classified="true" site=""/>
+      <snowdome name="Japan" counter="1" amount="1" country="Japan" common="--" continent="Asia" year="2011" group="M.Y." by="M.Y." classified="true" site=""/>
+      <snowdome name="Tokyo" counter="1" amount="1" country="Japan" common="--" continent="Asia" year="2024" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Seoul" counter="1" amount="1" country="South Korea" common="--" continent="Asia" year="2013" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Hong Kong (China)" counter="1" amount="1" country="Hong Kong (China)" common="--" continent="Asia" year="2011" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Hong Kong (China)" counter="2" amount="1" country="Hong Kong (China)" common="--" continent="Asia" year="2019" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Guangzhou" counter="1" amount="1" country="China" common="--" continent="Asia" year="2019" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Guangzhou" counter="2" amount="1" country="China" common="--" continent="Asia" year="2019" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Beijing" counter="1" amount="1" country="China" common="--" continent="Asia" year="2010" group="O.S." by="O.S." classified="true" site=""/>
+      <snowdome name="Beijing" counter="2" amount="1" country="China" common="--" continent="Asia" year="2016" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Shanghai" counter="1" amount="1" country="China" common="--" continent="Asia" year="2016" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Shanghai" counter="2" amount="1" country="China" common="--" continent="Asia" year="2016" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Shanghai Disneyland Park" counter="1" amount="2" country="China" common="--" continent="Asia" year="2016" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="China" counter="1" amount="1" country="China" common="--" continent="Asia" year="2007" group="M. and A.S." by="M. and A.S." classified="true" site=""/>
+      <snowdome name="Bethlehem" counter="1" amount="1" country="Palestine" common="--" continent="Asia" year="2003" group="A. and A.K." by="A.K." classified="true" site=""/>
+      <snowdome name="Bethlehem" counter="2" amount="1" country="Palestine" common="--" continent="Asia" year="2012" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Israel" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="2009" group="N. and V.S." by="N.S." classified="true" site=""/>
+      <snowdome name="Eilat" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="1999" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Eilat" counter="2" amount="1" country="Israel" common="--" continent="Asia" year="1999" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Red Sea" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="199?" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Dead Sea" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="200?" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Masada" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="2010" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Caesarea" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="2012" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Yardenit" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="2011" group="J. and L.G." by="J.G." classified="true" site=""/>
+      <snowdome name="Sea of Galilee" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="200?" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Nazareth" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="200?" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Haifa" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="2007" group="R. and M.M." by="M.M." classified="true" site=""/>
+      <snowdome name="Tel Aviv" counter="1" amount="2" country="Israel" common="--" continent="Asia" year="2017" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Jerusalem" counter="1" amount="1" country="Israel" common="--" continent="Asia" year="2007" group="R. and M.M." by="M.M." classified="true" site=""/>
+      <snowdome name="Jerusalem" counter="2" amount="1" country="Israel" common="--" continent="Asia" year="200?" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Petra" counter="1" amount="2" country="Jordan" common="--" continent="Asia" year="2010" group="M.G." by="M.G." classified="true" site=""/>
+      <snowdome name="Petra" counter="2" amount="2" country="Jordan" common="--" continent="Asia" year="2012" group="N. and V.S." by="N.S." classified="true" site=""/>
+      <snowdome name="Kuwait" counter="1" amount="1" country="Kuwait" common="--" continent="Asia" year="2012" group="M.G." by="M.G." classified="true" site=""/>
+      <snowdome name="Qatar" counter="1" amount="1" country="Qatar" common="--" continent="Asia" year="2012" group="M.G." by="M.G." classified="true" site=""/>
+      <snowdome name="Dubai" counter="1" amount="1" country="UAE" common="--" continent="Asia" year="2012" group="M.G." by="M.G." classified="true" site=""/>
+      <snowdome name="Dubai" counter="2" amount="2" country="UAE" common="--" continent="Asia" year="2023" group="R.S." by="R.S." classified="true" site=""/>
+      <snowdome name="Tehran" counter="1" amount="1" country="Iran" common="--" continent="Asia" year="2016" group="U.A." by="U.A." classified="true" site=""/>
+      <snowdome name="Iran" counter="1" amount="1" country="Iran" common="--" continent="Asia" year="2016" group="U.A." by="U.A." classified="true" site=""/>
+      <snowdome name="Cairo" counter="1" amount="1" country="Egypt" common="--" continent="Africa" year="2010" group="M.G." by="M.G." classified="true" site=""/>
+      <snowdome name="Egypt" counter="1" amount="1" country="Egypt" common="--" continent="Africa" year="2000" group="G. and B.G." by="B.G." classified="true" site=""/>
+      <snowdome name="Egypt" counter="2" amount="1" country="Egypt" common="--" continent="Africa" year="2000" group="G. and B.G." by="B.G." classified="true" site=""/>
+      <snowdome name="Morocco" counter="1" amount="1" country="Morocco" common="--" continent="Africa" year="2010" group="M.G." by="M.G." classified="true" site=""/>
+      <snowdome name="Marrakech" counter="1" amount="1" country="Morocco" common="--" continent="Africa" year="2010" group="M.G." by="M.G." classified="true" site=""/>
+      <snowdome name="South Africa" counter="1" amount="1" country="South Africa" common="--" continent="Africa" year="2014" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="South Africa" counter="2" amount="1" country="South Africa" common="--" continent="Africa" year="2014" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Cape Point" counter="1" amount="1" country="South Africa" common="--" continent="Africa" year="2014" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Cape Town" counter="1" amount="1" country="South Africa" common="--" continent="Africa" year="2014" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Table Mountain (Cape Town)" counter="1" amount="1" country="South Africa" common="--" continent="Africa" year="2014" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Bo Kaap (Cape Town)" counter="1" amount="1" country="South Africa" common="--" continent="Africa" year="2014" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Melbourne" counter="1" amount="1" country="Australia" common="--" continent="Australia and Oceania" year="2011" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Sydney" counter="1" amount="1" country="Australia" common="--" continent="Australia and Oceania" year="2011" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Queenstown" counter="1" amount="1" country="New Zealand" common="--" continent="Australia and Oceania" year="2011" group="D.K." by="D.K." classified="true" site=""/>
+      <snowdome name="Auckland" counter="1" amount="1" country="New Zealand" common="--" continent="Australia and Oceania" year="2011" group="D.K." by="D.K." classified="true" site=""/>
+      <snowdome name="Christchurch" counter="1" amount="1" country="New Zealand" common="--" continent="Australia and Oceania" year="2011" group="D.K." by="D.K." classified="true" site=""/>
+      <snowdome name="Colombia" counter="1" amount="2" country="Colombia" common="--" continent="South America" year="2023" group="E.S." by="E.S." classified="true" site=""/>
+      <snowdome name="Itaipu Dam" counter="1" amount="1" country="Paraguay" common="--" continent="South America" year="2022" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Rio de Janeiro" counter="1" amount="1" country="Brazil" common="--" continent="South America" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Brazil" counter="1" amount="1" country="Brazil" common="--" continent="South America" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Argentina" counter="1" amount="1" country="Argentina" common="--" continent="South America" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Buenos Aires" counter="1" amount="1" country="Argentina" common="--" continent="South America" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Iguassu Falls" counter="1" amount="1" country="Argentina" common="--" continent="South America" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Patagonia" counter="1" amount="1" country="Argentina" common="--" continent="South America" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="El Calafate" counter="1" amount="1" country="Argentina" common="--" continent="South America" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Colonia del Sacramento" counter="1" amount="1" country="Uruguay" common="--" continent="South America" year="2011" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Valparaiso" counter="1" amount="1" country="Chile" common="--" continent="South America" year="2016" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Aruba (Netherlands)" counter="1" amount="1" country="Aruba (Netherlands)" common="--" continent="North America" year="2009" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Nassau" counter="1" amount="1" country="Bahamas" common="--" continent="North America" year="2017" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Bahamas" counter="1" amount="1" country="Bahamas" common="--" continent="North America" year="2017" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Great Stirrup Cay" counter="1" amount="1" country="Bahamas" common="--" continent="North America" year="2017" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Bermuda (Great Britain)" counter="1" amount="1" country="Bermuda (Great Britain)" common="--" continent="North America" year="2018" group="M. and M.T." by="M. and M.T." classified="true" site="http://www.gibraltar.com"/>
+      <snowdome name="Jamaica" counter="1" amount="1" country="Jamaica" common="--" continent="North America" year="2010" group="D.K." by="D.K." classified="true" site=""/>
+      <snowdome name="Puerto Rico (USA)" counter="1" amount="1" country="Puerto Rico (USA)" common="--" continent="North America" year="2009" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Mexico" counter="1" amount="1" country="Mexico" common="--" continent="North America" year="2010" group="D.K." by="D.K." classified="true" site=""/>
+      <snowdome name="New York" counter="1" amount="1" country="USA" common="--" continent="North America" year="1999" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="New York" counter="2" amount="1" country="USA" common="--" continent="North America" year="1999" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="New York" counter="3" amount="1" country="USA" common="" continent="North America" year="2007" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="New York" counter="4" amount="1" country="USA" common="" continent="North America" year="2019" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="New York" counter="5" amount="1" country="USA" common="" continent="North America" year="2019" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
+      <snowdome name="Washington" counter="1" amount="1" country="USA" common="--" continent="North America" year="2000" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="LurayCaverns (Luray)" counter="1" amount="1" country="USA" common="--" continent="North America" year="2025" group="R. and M.M." by="M.M." classified="true" site=""/>
+      <snowdome name="Texas" counter="1" amount="1" country="USA" common="--" continent="North America" year="2008" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="New Orleans" counter="1" amount="1" country="USA" common="--" continent="North America" year="2008" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Denver" counter="1" amount="1" country="USA" common="--" continent="North America" year="2007" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="San Francisco" counter="1" amount="1" country="USA" common="--" continent="North America" year="199?" group="S.A." by="S.A." classified="true" site=""/>
+      <snowdome name="San Francisco" counter="2" amount="1" country="USA" common="--" continent="North America" year="2012" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Alcatraz Island" counter="1" amount="1" country="USA" common="--" continent="North America" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="San Jose" counter="1" amount="1" country="USA" common="--" continent="North America" year="2012" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="San Diego" counter="1" amount="1" country="USA" common="--" continent="North America" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="San Diego" counter="2" amount="1" country="USA" common="--" continent="North America" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Wild Animal Park (San Diego)" counter="1" amount="1" country="USA" common="--" continent="North America" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Yosemite Park" counter="1" amount="1" country="USA" common="--" continent="North America" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Santa Barbara" counter="1" amount="1" country="USA" common="--" continent="North America" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Los Angeles" counter="1" amount="1" country="USA" common="--" continent="North America" year="2007" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Hollywood (Los Angeles)" counter="1" amount="1" country="USA" common="--" continent="North America" year="2007" group="G. and B.G." by="G. and B.G." classified="true" site=""/>
+      <snowdome name="Disneyland California Park" counter="1" amount="1" country="USA" common="--" continent="North America" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Magic Mountain Six Flags Park" counter="1" amount="1" country="USA" common="--" continent="North America" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Death Valley" counter="1" amount="1" country="USA" common="--" continent="North America" year="2009" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Las Vegas" counter="1" amount="1" country="USA" common="--" continent="North America" year="2006" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Las Vegas" counter="2" amount="1" country="USA" common="--" continent="North America" year="2007" group="Y.P." by="Y.P." classified="true" site=""/>
+      <snowdome name="California" counter="1" amount="1" country="USA" common="--" continent="North America" year="2006" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Cambria" counter="1" amount="1" country="USA" common="--" continent="North America" year="2006" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Sausalito" counter="1" amount="1" country="USA" common="--" continent="North America" year="2016" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Mono Lake" counter="1" amount="1" country="USA" common="--" continent="North America" year="2021" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Monterey" counter="1" amount="1" country="USA" common="--" continent="North America" year="2021" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Solvang" counter="1" amount="1" country="USA" common="--" continent="North America" year="2021" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Bryce Canyon" counter="1" amount="1" country="USA" common="--" continent="North America" year="2021" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Bryce Canyon" counter="2" amount="1" country="USA" common="--" continent="North America" year="2021" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Grand Canyon" counter="1" amount="2" country="USA" common="--" continent="North America" year="2021" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Route 66" counter="1" amount="1" country="USA" common="--" continent="North America" year="2021" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Portland" counter="1" amount="1" country="USA" common="--" continent="North America" year="2011" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Seattle" counter="1" amount="1" country="USA" common="--" continent="North America" year="2011" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Seattle" counter="2" amount="1" country="USA" common="--" continent="North America" year="2008" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Seattle" counter="3" amount="1" country="USA" common="--" continent="North America" year="2016" group="N. and V.S." by="V.S." classified="true" site=""/>
+      <snowdome name="Seattle" counter="4" amount="1" country="USA" common="--" continent="North America" year="2020" group="N. and V.S." by="V.S." classified="true" site=""/>
+      <snowdome name="Montana" counter="1" amount="1" country="USA" common="--" continent="North America" year="2007" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Ketchikan" counter="1" amount="1" country="USA" common="--" continent="North America" year="2018" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Juneau" counter="1" amount="1" country="USA" common="--" continent="North America" year="2018" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Skagway" counter="1" amount="1" country="USA" common="--" continent="North America" year="2018" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Philadelphia" counter="1" amount="1" country="USA" common="--" continent="North America" year="200?" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Pennsylvania" counter="1" amount="1" country="USA" common="" continent="North America" year="2007" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="New Jersey" counter="1" amount="1" country="USA" common="" continent="North America" year="2007" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Boston" counter="2" amount="1" country="USA" common="--" continent="North America" year="2012" group="T.M." by="T.M." classified="true" site=""/>
+      <snowdome name="Boston" counter="1" amount="1" country="USA" common="--" continent="North America" year="2003" group="A. and A.K." by="A.K." classified="true" site=""/>
+      <snowdome name="Provincetown" counter="1" amount="1" country="USA" common="--" continent="North America" year="2006" group="A. and A.K." by="A.K." classified="true" site=""/>
+      <snowdome name="Orlando" counter="1" amount="1" country="USA" common="--" continent="North America" year="2014" group="G. and I.B." by="G. and I.B." classified="true" site=""/>
+      <snowdome name="Miami" counter="1" amount="1" country="USA" common="--" continent="North America" year="2008" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Kennedy Space Center" counter="1" amount="1" country="USA" common="--" continent="North America" year="2008" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Kennedy Space Center" counter="2" amount="1" country="USA" common="--" continent="North America" year="2018" group="R.S." by="R.S." classified="true" site=""/>
+      <snowdome name="Jacksonville" counter="1" amount="1" country="USA" common="--" continent="North America" year="2008" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Charlotte" counter="1" amount="1" country="USA" common="--" continent="North America" year="2008" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Wisconsin" counter="1" amount="1" country="USA" common="--" continent="North America" year="2007" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Chicago" counter="1" amount="1" country="USA" common="--" continent="North America" year="200?" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Chicago" counter="2" amount="1" country="USA" common="--" continent="North America" year="2010" group="A.S." by="A.S." classified="true" site=""/>
+      <snowdome name="Ottawa" counter="1" amount="1" country="Canada" common="--" continent="North America" year="200?" group="R.G." by="R.G." classified="true" site=""/>
+      <snowdome name="Montreal" counter="1" amount="1" country="Canada" common="--" continent="North America" year="2002" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Quebec" counter="1" amount="1" country="Canada" common="--" continent="North America" year="2002" group="J. and L.G." by="L.G." classified="true" site=""/>
+      <snowdome name="Niagara Falls" counter="1" amount="1" country="Canada" common="--" continent="North America" year="1999" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Niagara Falls" counter="2" amount="1" country="Canada" common="--" continent="North America" year="2006" group="S. and G.L." by="S. and G.L." classified="true" site=""/>
+      <snowdome name="Toronto" counter="1" amount="1" country="Canada" common="--" continent="North America" year="1999" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Toronto" counter="2" amount="1" country="Canada" common="--" continent="North America" year="1999" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Toronto" counter="3" amount="1" country="Canada" common="--" continent="North America" year="1999" group="G. and I.B." by="I.B." classified="true" site=""/>
+      <snowdome name="Fort Henry (Kingston)" counter="1" amount="1" country="Canada" common="--" continent="North America" year="2009" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Banff Park" counter="1" amount="1" country="Canada" common="--" continent="North America" year="1999" group="S. and R.N." by="R.N." classified="true" site=""/>
+      <snowdome name="Vancouver" counter="1" amount="1" country="Canada" common="--" continent="North America" year="2018" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Tofino" counter="1" amount="1" country="Canada" common="--" continent="North America" year="2018" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="Butchart Gardens (Victoria)" counter="1" amount="2" country="Canada" common="--" continent="North America" year="2018" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
+      <snowdome name="United Nations" counter="1" amount="1" country="--" common="--" continent="--" year="2007" group="J. and L.G." by="L.G." classified="false" site=""/>
+      <snowdome name="Sea World" counter="1" amount="1" country="--" common="--" continent="--" year="2005" group="S. and G.L." by="S. and G.L." classified="false" site=""/>
+      <snowdome name="Sea World" counter="2" amount="2" country="--" common="--" continent="--" year="1999" group="J. and L.G." by="J.G." classified="false" site=""/>
+      <snowdome name="Ancient World Globe" counter="1" amount="1" country="--" common="--" continent="--" year="2000" group="J. and L.G." by="J.G." classified="false" site=""/>
+      <snowdome name="World Globe" counter="1" amount="1" country="--" common="--" continent="--" year="200?" group="N. and V.S." by="N. and V.S." classified="false" site=""/>
+      <snowdome name="Mythology" counter="1" amount="1" country="--" common="--" continent="--" year="200?" group="N. and V.S." by="N. and V.S." classified="false" site=""/>
+      <snowdome name="Romance" counter="1" amount="1" country="--" common="--" continent="--" year="200?" group="N. and V.S." by="N. and V.S." classified="false" site=""/>
+   </snowdomes>
+</root>

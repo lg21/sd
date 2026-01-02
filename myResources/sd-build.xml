@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<project name="sd_generator" default="generate" basedir=".">
+
+    <property name="project.dir" value="."/>
+    <property name="project.output.dir" value="${project.dir}/.."/>
+    <property name="project.name" value="sd"/>
+    <property name="project.schema" value="${project.dir}/${project.name}.xsd"/>
+    <property name="project.xml" value="${project.dir}/${project.name}.xml"/>
+    <property name="build.src.dir" value="${project.dir}"/>
+
+    <path id="build.cp">
+        <fileset dir="${project.dir}">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <target name="taskDefs">
+        <taskdef name="xmlbean" classname="org.apache.xmlbeans.impl.tool.XMLBean">
+            <classpath>
+                <path refid="build.cp"/>
+            </classpath>
+        </taskdef>
+    </target>
+
+    <target name="clean" description="Clean">
+        <delete>
+            <fileset dir="${project.dir}">
+                <include name="**/*.class"/>
+            </fileset>
+        </delete>
+        <delete>
+            <fileset dir="${project.output.dir}">
+                <include name="**/*.html"/>
+            </fileset>
+        </delete>
+    </target>
+
+    <target name="beans" depends="taskDefs" description="Beans">
+        <xmlbean classpathref="build.cp" schema="${project.schema}" classgendir="${project.dir}"
+                 srcgendir="${project.dir}" failonerror="true"/>
+    </target>
+
+    <target name="compile" description="Compile">
+        <depend srcdir="${project.dir}" destdir="${project.dir}"/>
+        <javac srcdir="${project.dir}" destdir="${project.dir}" includeantruntime="false" classpathref="build.cp"/>
+    </target>
+
+    <target name="generate" depends="beans, compile" description="Generate">
+        <taskdef name="classgenerator" classname="SDTask">
+            <classpath>
+                <pathelement location="${project.dir}"/>
+                <path refid="build.cp"/>
+            </classpath>
+        </taskdef>
+        <classgenerator xmlfile="${project.xml}" inputdir="${project.dir}" outputdir="${project.output.dir}"/>
+    </target>
+
+</project>

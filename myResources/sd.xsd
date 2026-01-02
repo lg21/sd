@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1255"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="root">
+    <xs:complexType mixed="true">
+      <xs:sequence> 
+        <xs:element name="snowdomes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="snowdome">
+                <xs:complexType>
+                  <xs:attribute name="name" type="xs:string" use="required" />
+                  <xs:attribute name="counter" type="xs:int" use="required" />
+                  <xs:attribute name="amount" type="xs:int" use="required" />
+                  <xs:attribute name="country" type="xs:string" use="required" />
+                  <xs:attribute name="common" type="xs:string" use="required" />
+                  <xs:attribute name="continent" type="xs:string" use="required" />
+                  <xs:attribute name="year" type="xs:string" use="required" />
+                  <xs:attribute name="group" type="xs:string" use="required" />
+                  <xs:attribute name="by" type="xs:string" use="required" />
+                  <xs:attribute name="classified" type="xs:string" use="required" />
+                  <xs:attribute name="site" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
