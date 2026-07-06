@@ -162,7 +162,7 @@
 										{ "id": "ME", "showAsSelected": true }, // 2  Montenegro
 										{ "id": "NL", "showAsSelected": true }, // 9  Netherlands 
 										{ "id": "NO", "showAsSelected": true }, // 5  Norway 
-										{ "id": "PL", "showAsSelected": true }, // 3  Poland 
+										{ "id": "PL", "showAsSelected": true }, // 4  Poland 
 										{ "id": "PT", "showAsSelected": true }, // 6  Portugal 
 										{ "id": "RO", "showAsSelected": true }, // 8  Romania 
 										{ "id": "RU", "showAsSelected": true }, // 8  Russia 

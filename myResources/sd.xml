@@ -40,6 +40,7 @@
       <snowdome name="Riga" counter="1" amount="2" country="Latvia" common="--" continent="Europe" year="2019" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.moscowcity.com"/>
       <snowdome name="Estonia" counter="1" amount="1" country="Estonia" common="--" continent="Europe" year="2011" group="S.E." by="S.E." classified="true" site="http://www.bulgariatravel.org"/>
       <snowdome name="Tallinn" counter="1" amount="1" country="Estonia" common="--" continent="Europe" year="2011" group="R.F." by="R.F." classified="true" site="http://www.bulgariatravel.org"/>
+      <snowdome name="Kudowa Zdroj" counter="1" amount="1" country="Poland" common="--" continent="Europe" year="2026" group="J. and L.G." by="J. and L.G." classified="true" site="http://www.prague.cz"/>
       <snowdome name="Karpacz" counter="1" amount="1" country="Poland" common="--" continent="Europe" year="2016" group="G. and B.G." by="G.G." classified="true" site="http://www.prague.cz"/>
       <snowdome name="Gdansk" counter="1" amount="1" country="Poland" common="--" continent="Europe" year="2011" group="R.F." by="R.F." classified="true" site="http://www.prague.cz"/>
       <snowdome name="Warsaw" counter="1" amount="1" country="Poland" common="--" continent="Europe" year="2011" group="R.F." by="R.F." classified="true" site="http://www.prague.cz"/>
