@@ -151,7 +151,7 @@
 										{ "id": "HU", "showAsSelected": true }, // 3  Hungary
 										{ "id": "IS", "showAsSelected": true }, // 3  Iceland
 										{ "id": "IE", "showAsSelected": true }, // 3  Ireland
-										{ "id": "IT", "showAsSelected": true }, // 33 Italy
+										{ "id": "IT", "showAsSelected": true }, // 34 Italy
 										{ "id": "LV", "showAsSelected": true }, // 2  Latvia
 										{ "id": "LI", "showAsSelected": true }, // 1  Liechtenstein
 										{ "id": "LT", "showAsSelected": true }, // 5  Lithuania

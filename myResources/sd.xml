@@ -221,6 +221,7 @@
       <snowdome name="Messina" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2011" group="G. and B.G., I.I." by="G.G., I.I." classified="true" site=""/>
       <snowdome name="Noto" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2023" group="R. and M.M." by="R. and M.M." classified="true" site=""/>
       <snowdome name="Rome" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="2000" group="J. and L.G." by="J. and L.G." classified="true" site=""/>
+      <snowdome name="Rome" counter="2" amount="1" country="Italy" common="--" continent="Europe" year="2026" group="N. and V.S." by="N. and V.S." classified="true" site=""/>
       <snowdome name="Turin" counter="1" amount="1" country="Italy" common="--" continent="Europe" year="2019" group="R. and M.M." by="M.M." classified="true" site=""/>
       <snowdome name="Milan" counter="1" amount="2" country="Italy" common="--" continent="Europe" year="199?" group="R.G." by="R.G." classified="true" site=""/>
       <snowdome name="Milan" counter="2" amount="1" country="Italy" common="--" continent="Europe" year="199?" group="R.G." by="R.G." classified="true" site=""/>
